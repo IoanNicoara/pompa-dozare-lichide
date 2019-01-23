@@ -30,7 +30,7 @@ Informatiile despre debit sunt date de un semnal PWM cu factor de umplere 50% cu
 
 ## LCD 16x2
 Afisarea informatiilor despre debit se vor afisa pe un LCD 16x2
- - update rev.1 fisarea alterativ pe 7-Segments Digits
+ - update rev.1 afisarea alterativ pe 7-Segments Digits
 ## Encoder rotativ
 Modificarea parametrilor se va face cu ajutorul unui encoder rotativ cu functie de SW.
 <hr/>
